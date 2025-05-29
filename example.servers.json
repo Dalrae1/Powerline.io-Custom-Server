@@ -1,0 +1,28 @@
+[
+{
+   "name": "My Server",
+   "type": "remote",
+   "id": 1750,
+   "hostname": "dalr.ae",
+   "maxplayers": 100,
+   "pinned": true,
+   "config": {
+      "ArenaSize": 300, 
+      "FoodValue": 1.5, 
+      "ConfigType": 160, 
+      "ZoomLevel2": 10, 
+      "DefaultZoom": 2, 
+      "MaxRubSpeed": 200, 
+      "MinimumZoom": 1.5, 
+      "GlobalWebLag": 90, 
+      "DefaultLength": 10, 
+      "IsTalkEnabled": 1, 
+      "MaxBoostSpeed": 255, 
+      "UpdateInterval": 100, 
+      "GlobalMobileLag": 60, 
+      "OtherSnakeDelay": 40, 
+      "MinimumZoomScore": 100, 
+      "MaxRubAcceleration": 4
+   }
+}
+]  
